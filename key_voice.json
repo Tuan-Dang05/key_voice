@@ -1,6 +1,9 @@
 {
-  "version":"v1.0.1",
-  "key": [
-    
+  "version": "v1.0.1",
+  "keys": [
+    {
+      "key": "A1B2C3D4E5F6A7B8",
+      "active": true
+    }
   ]
 }
